@@ -1,5 +1,6 @@
 # Task-4
 🛒 Blinkit Sales Dashboard - Power BI Project
+
 This project is a comprehensive Power BI dashboard built to analyze Blinkit's sales performance, customer satisfaction, and inventory distribution. It focuses on identifying key insights and opportunities for business optimization using well-defined KPIs and interactive visualizations.
 
 📌 Objective
@@ -15,11 +16,13 @@ The Power BI dashboard includes multiple interactive visuals and KPI cards to pr
 📅 Date-wise Trends: Sales patterns over time.
 📍 City & Region-wise Analysis: Performance across locations.
 🔍 Category & Sub-category Sales: Top-performing items.
+
 🧠 Key Business Insights
 Top Cities by revenue help prioritize logistics and inventory.
 Best-selling Categories drive marketing decisions.
 Customer Rating Trends indicate satisfaction over time.
 Average Sales Dip can highlight slow-moving periods or underperformance.
+
 📜 Storytelling Approach
 This dashboard is structured to guide stakeholders through:
 
